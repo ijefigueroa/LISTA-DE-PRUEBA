@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:0,Telefe Bs As
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
-#EXTINF:0,TELEFE Mar del Plata
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0100
+#EXTINF:0,Telefe Cordoba
+https://ythlsgo.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:0,TELEFE Salta
+https://ythlsgo.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:0,TELEFE Internacional
+https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 #EXTINF:0,Telefe Hits Pluto TV
 https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 #EXTINF:0,Telefe Noticias Pluto TV
-https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
+https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
 #EXTINF:54,Kanal D Drama TURCO (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:0,Canal 2 Posadas
